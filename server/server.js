@@ -20,7 +20,7 @@ if (process.env.NODE_ENV === 'production') {
   app.use(express.static(path.join(__dirname, '../client/build')));
 }
 
-app.get('*', (req, res) => {
+app.get('*', (req, res) => { // from / to * to fix heroku error on GET / when refreshing the page
   res.sendFile(path.join(__dirname, '../client/build/index.html'));
 });
 
