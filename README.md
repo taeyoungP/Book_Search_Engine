@@ -51,13 +51,13 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 * [Link to Deployed Application](https://protected-fjord-15586.herokuapp.com)
 
 * How to Use
-	* ![main_page](./assets/main_page.PNG)
-	* ![login](./assets/login.PNG)
-		User can use Google book search engine with or without being logged in but the user needs to logged in to use 'saved this book' function.
-	* ![search_page](./assets/save_book.PNG)
-		Search for the book and the user can save searched book information to their account.
-	* ![saved_book](./assets/book_saved.PNG)
-		User can see their saved book(s) at 'See Your Books' section/tab. They can also delete the saved book(s) from their saved list.
+	 ![main_page](./assets/main_page.PNG)
+	 ![login](./assets/login.PNG)
+	* User can use Google book search engine with or without being logged in but the user needs to logged in to use 'saved this book' function.
+	 ![search_page](./assets/save_book.PNG)
+	* Search for the book and the user can save searched book information to their account.
+	![saved_book](./assets/book_saved.PNG)
+	* User can see their saved book(s) at 'See Your Books' section/tab. They can also delete the saved book(s) from their saved list.
 
 
 ### Back-End Specifications
